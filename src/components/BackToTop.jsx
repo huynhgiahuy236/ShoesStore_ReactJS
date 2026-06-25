@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 // ===== HẰNG SỐ, HÀM HỖ TRỢ & STATE SETUP =====
 
 // ------ Hàm/Component BackToTop ------
-const BackToTop = () => {
+const BackToTop = ({ isHidden = false }) => {
 
   // ------ State lưu is show ------
   const [isShow, setIsShow] = useState(false);
@@ -31,17 +31,17 @@ const BackToTop = () => {
     });
   };
 
-  if (!isShow) return null;
+  if (!isShow || isHidden) return null;
 
   // ===== RENDER GIAO DIỆN =====
 
   return (
     <button
       onClick={handleBackToTop}
-      className="fixed bottom-16 right-3 z-[999] flex h-12 w-12 cursor-pointer items-center justify-center rounded-full bg-[#ff6900]/30 text-white shadow-lg transition hover:-translate-y-1 hover:bg-orange-600"
+      className="fixed bottom-6 right-3 z-[999] flex h-12 w-12 cursor-pointer items-center justify-center rounded-full bg-[#ff6900]/30 text-white shadow-lg transition hover:-translate-y-1 hover:bg-orange-600"
       title="Lên đầu trang"
     >
-      <i class="fa-solid fa-caret-up"></i>
+      <i className="fa-solid fa-caret-up"></i>
     </button>
   );
 };

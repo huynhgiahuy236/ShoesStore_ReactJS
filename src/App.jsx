@@ -296,7 +296,7 @@ function App() {
         onRemove={(item) => dispatch(removeCartItem(item))}
       />
 
-      <BackToTop/>
+      <BackToTop isHidden={isOpenCart} />
     </div>
   )
 }
