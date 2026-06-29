@@ -120,8 +120,8 @@ const Header = ({ totalQuantity, user, onOpenCart }) => {
     <header className="sticky top-0 z-40 bg-white shadow-sm">
       <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-4">
         <Link to="/" className="flex items-center gap-2">
-          <img src="/images/logoWeb.png" alt="logo KienShoes" className="w-15" />
-          <p className="text-2xl font-black text-orange-500">Kien<span className='text-2xl font-black text-black'>Shoes</span></p>
+          <img src="/images/logoWeb.png" alt="logo HiKuShoes" className="w-15" />
+          <p className="text-2xl font-black text-orange-500">HiKu<span className='text-2xl font-black text-black'>Shoes</span></p>
         </Link>
 
         <nav className="hidden items-center gap-3 lg:flex">
@@ -232,11 +232,11 @@ const Header = ({ totalQuantity, user, onOpenCart }) => {
                 >
                   <img
                     src="/images/logoWeb.png"
-                    alt="logo KienShoes"
+                    alt="logo HiKuShoes"
                     className="w-8"
                   />
                   <span className="text-xl font-black text-orange-500">
-                    Kien<span className='-xl font-black text-black'>Shoes</span>
+                    HiKu<span className='-xl font-black text-black'>Shoes</span>
                   </span>
                 </Link>
 
@@ -334,7 +334,7 @@ const Header = ({ totalQuantity, user, onOpenCart }) => {
 
               <div className="mt-10 rounded-2xl bg-orange-50 p-4">
                 <p className="text-sm font-bold text-orange-600">
-                  Kien<span className='text-sm font-bold text-black'>Shoes</span>
+                  HiKu<span className='text-sm font-bold text-black'>Shoes</span>
                 </p>
                 <p className="mt-1 text-sm font-semibold text-slate-600">
                   Cửa hàng giày sneaker dành cho người trẻ.

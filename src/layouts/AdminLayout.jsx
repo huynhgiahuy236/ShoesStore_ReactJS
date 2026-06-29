@@ -120,8 +120,8 @@ const AdminLayout = () => {
         <NavLink to="/admin" className="mb-8 flex items-center gap-3">
             <div>
               <div className="flex items-center gap-2 mb-2">
-                <img src="/images/logoWeb.png" alt="logo KienShoes" className="w-8" />
-                <h1 className="text-xl font-black text-orange-500">KienShoes</h1>
+                <img src="/images/logoWeb.png" alt="logo HiKuShoes" className="w-8" />
+                <h1 className="text-xl font-black text-orange-500">HiKuShoes</h1>
               </div>
 
               <p className="text-xs text-slate-400">Admin Panel</p>
@@ -157,8 +157,8 @@ const AdminLayout = () => {
           <NavLink to="/admin" className="mb-8 flex items-center gap-3">
             <div>
               <div className="flex items-center gap-2 mb-2">
-                <img src="/images/logoWeb.png" alt="logo KienShoes" className="w-8" />
-                <h1 className="text-xl font-black text-orange-500">KienShoes</h1>
+                <img src="/images/logoWeb.png" alt="logo HiKuShoes" className="w-8" />
+                <h1 className="text-xl font-black text-orange-500">HiKuShoes</h1>
               </div>
 
               <p className="text-xs text-slate-400">Admin Panel</p>
@@ -211,7 +211,7 @@ const AdminLayout = () => {
             <div className="flex w-full items-center justify-between px-4 py-4 sm:px-6 lg:px-8">
               <div>
                 <h2 className="text-lg font-black text-slate-900 sm:text-2xl">
-                  KienShoes Admin
+                  HiKuShoes Admin
                 </h2>
 
                 <p className="text-xs font-bold text-slate-400 sm:text-sm">

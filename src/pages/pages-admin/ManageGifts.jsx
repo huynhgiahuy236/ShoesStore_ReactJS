@@ -249,7 +249,7 @@ const ManageGifts = () => {
                 className={`w-full rounded-xl border px-4 py-3 outline-none focus:border-indigo-500 ${
                   errors.name ? "border-red-500" : "border-slate-300"
                 }`}
-                placeholder="Ví dụ: Tất trắng KienShoes"
+                placeholder="Ví dụ: Tất trắng HiKuShoes"
               />
 
               {errors.name && (

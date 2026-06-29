@@ -8,7 +8,7 @@ import { adminAccount } from '../pages-auth/Login.jsx'
 // ===== HẰNG SỐ, HÀM HỖ TRỢ & STATE SETUP =====
 
 // ------ Khai báo const admin storage key ------
-const ADMIN_STORAGE_KEY = 'kienshoes_admin_account'
+const ADMIN_STORAGE_KEY = 'HiKushoes_admin_account'
 
 // ------ Khai báo const username ------
 const username = adminAccount.username
@@ -21,7 +21,7 @@ const defaultAdmin = {
   username,
   password,
   fullName: 'Lê Đức Kiên',
-  email: 'admin@kienshoes.vn',
+  email: 'admin@HiKushoes.vn',
   role: 'admin',
 }
 
@@ -222,7 +222,7 @@ const AdminProfile = () => {
         </h1>
 
         <p className="mt-2 font-bold text-slate-400">
-          Thông tin tài khoản quản trị và bảo mật hệ thống KienShoes.
+          Thông tin tài khoản quản trị và bảo mật hệ thống HiKuShoes.
         </p>
       </div>
 

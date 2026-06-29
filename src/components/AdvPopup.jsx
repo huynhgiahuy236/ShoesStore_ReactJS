@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 
-const POPUP_KEY = 'kienshoes_promotion_popup_closed_at'
+const POPUP_KEY = 'HiKushoes_promotion_popup_closed_at'
 const HIDE_TIME = 5 * 60 * 1000
 const ANIMATION_TIME = 300
 
@@ -73,7 +73,7 @@ const AdvPopup = () => {
         <img
           onClick={goToPromotions}
           src="/images/banner1.png"
-          alt="Săn sale cực chất cùng KienShoes"
+          alt="Săn sale cực chất cùng HiKuShoes"
           className="w-full cursor-pointer select-none rounded-3xl object-contain shadow-2xl"
           draggable="false"
         />

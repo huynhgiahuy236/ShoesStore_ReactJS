@@ -5,7 +5,7 @@ import { createSlice } from '@reduxjs/toolkit'
 // ===== HẰNG SỐ, HÀM HỖ TRỢ & STATE SETUP =====
 
 // ------ Khai báo const gift storage key ------
-const GIFT_STORAGE_KEY = 'kienshoes_gifts'
+const GIFT_STORAGE_KEY = 'HiKushoes_gifts'
 
 // ------ Hàm/Component safeParseGifts ------
 const safeParseGifts = (data) => {

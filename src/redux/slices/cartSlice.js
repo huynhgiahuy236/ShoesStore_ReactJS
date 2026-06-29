@@ -6,7 +6,7 @@ import { createSlice } from '@reduxjs/toolkit'
 
 // ------ Hàm lấy cart key ------
 const getCartKey = (username) => {
-  return username ? `kienShoesCart_${username}` : 'kienShoesCart_guest'
+  return username ? `HiKuShoesCart_${username}` : 'HiKuShoesCart_guest'
 }
 
 // ------ Hàm lấy cart from local storage ------

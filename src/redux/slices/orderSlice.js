@@ -5,8 +5,8 @@ import { createSlice } from '@reduxjs/toolkit'
 // ===== HẰNG SỐ, HÀM HỖ TRỢ & STATE SETUP =====
 
 // ------ Khai báo const order prefix ------
-const ORDER_PREFIX = 'kienshoes_orders_'
-const SOLD_STATS_KEY = 'kienshoes_sold_stats'
+const ORDER_PREFIX = 'HiKushoes_orders_'
+const SOLD_STATS_KEY = 'HiKushoes_sold_stats'
 
 // ------ Hàm lấy order key ------
 const getOrderKey = (username) => {

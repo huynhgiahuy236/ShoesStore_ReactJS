@@ -5,7 +5,7 @@ import { createSlice } from '@reduxjs/toolkit'
 // ===== HẰNG SỐ, HÀM HỖ TRỢ & STATE SETUP =====
 
 // ------ Khai báo const review storage key ------
-const REVIEW_STORAGE_KEY = 'kienshoes_reviews'
+const REVIEW_STORAGE_KEY = 'HiKushoes_reviews'
 
 // ------ Hàm lấy reviews from local storage ------
 const getReviewsFromLocalStorage = () => {

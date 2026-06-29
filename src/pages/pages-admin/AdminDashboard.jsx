@@ -19,7 +19,7 @@ import {
 } from '../../utils/adminUtils.js'
 import LoadingSpinner from '../../components/LoadingSpinner.jsx'
 
-const SOLD_STATS_KEY = 'kienshoes_sold_stats'
+const SOLD_STATS_KEY = 'HiKushoes_sold_stats'
 
 const safeParseObject = (value, fallback = {}) => {
   try {
@@ -204,7 +204,7 @@ const AdminDashboard = () => {
         </h1>
 
         <p className="mt-2 font-bold text-slate-400">
-          Tổng quan hệ thống quản lý KienShoes
+          Tổng quan hệ thống quản lý HiKuShoes
         </p>
       </div>
 

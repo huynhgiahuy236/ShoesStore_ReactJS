@@ -9,7 +9,7 @@ const AdminRoute = ({ children }) => {
 
   // ------ Khai báo const user ------
   const user =
-    JSON.parse(localStorage.getItem('kienshoes_user')) || null
+    JSON.parse(localStorage.getItem('HiKushoes_user')) || null
 
   if (!user) {
     return <Navigate to="/" replace />

@@ -8,7 +8,7 @@ import { adminAccount } from '../pages-auth/Login.jsx'
 // ===== HẰNG SỐ, HÀM HỖ TRỢ & STATE SETUP =====
 
 // ------ Khai báo const admin storage key ------
-const ADMIN_STORAGE_KEY = 'kienshoes_admin_account'
+const ADMIN_STORAGE_KEY = 'HiKushoes_admin_account'
 
 // ------ Khai báo const username ------
 const username = adminAccount.username
@@ -110,7 +110,7 @@ const ManageCustomers = () => {
   // ------ Hàm/Component saveCustomers ------
   const saveCustomers = (newCustomers) => {
     setCustomers(newCustomers)
-    localStorage.setItem('kienshoes_users', JSON.stringify(newCustomers))
+    localStorage.setItem('HiKushoes_users', JSON.stringify(newCustomers))
   }
 
   // ------ Hàm xử lý search ------

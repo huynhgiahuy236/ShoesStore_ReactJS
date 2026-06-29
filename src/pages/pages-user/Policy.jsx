@@ -10,7 +10,7 @@ const policies = [
     id: 'warranty',
     title: 'Chính sách bảo hành',
     image: '/images/chinhsachbaohanh.png',
-    desc: 'Bảo hành sản phẩm do lỗi kỹ thuật, keo đế hoặc lỗi sản xuất theo điều kiện của KienShoes.',
+    desc: 'Bảo hành sản phẩm do lỗi kỹ thuật, keo đế hoặc lỗi sản xuất theo điều kiện của HiKuShoes.',
   },
   {
     id: 'return',
@@ -39,7 +39,7 @@ const Policy = () => {
         </p>
 
         <h1 className="mt-2 text-4xl font-extrabold text-blue-950">
-          Chính sách KienShoes
+          Chính sách HiKuShoes
         </h1>
 
         <div className="mt-8 grid gap-6 md:grid-cols-3">

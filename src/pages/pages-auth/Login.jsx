@@ -33,7 +33,7 @@ const Login = () => {
   const getAdminAccount = () => {
 
     // ------ Khai báo const data ------
-    const data = localStorage.getItem('kienshoes_admin_account')
+    const data = localStorage.getItem('HiKushoes_admin_account')
 
     if (data) {
       return JSON.parse(data)

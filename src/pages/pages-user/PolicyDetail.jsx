@@ -7,9 +7,9 @@ import { Link, useParams } from 'react-router-dom'
 // ------ Đối tượng cấu hình/dữ liệu policy data ------
 const policyData = {
   warranty: {
-    label: 'KIENSHOES POLICY',
+    label: 'HiKuSHOES POLICY',
     title: 'Chính sách bảo hành',
-    desc: 'KienShoes hỗ trợ bảo hành đối với các sản phẩm phát sinh lỗi kỹ thuật từ nhà sản xuất trong quá trình sử dụng bình thường.',
+    desc: 'HiKuShoes hỗ trợ bảo hành đối với các sản phẩm phát sinh lỗi kỹ thuật từ nhà sản xuất trong quá trình sử dụng bình thường.',
     contents: [
       'Bảo hành áp dụng cho lỗi bung keo, lỗi đường may hoặc lỗi kỹ thuật do nhà sản xuất.',
       'Sản phẩm cần còn hóa đơn mua hàng hoặc thông tin đơn hàng trên hệ thống.',
@@ -18,25 +18,25 @@ const policyData = {
     ],
   },
   return: {
-    label: 'KIENSHOES POLICY',
+    label: 'HiKuSHOES POLICY',
     title: 'Chính sách đổi trả',
     desc: 'Khách hàng được hỗ trợ đổi size, đổi màu hoặc đổi sản phẩm khi sản phẩm đáp ứng đúng điều kiện đổi trả.',
     contents: [
       'Sản phẩm còn nguyên tem, hộp, phụ kiện đi kèm và chưa qua sử dụng ngoài trời.',
       'Hỗ trợ đổi size hoặc đổi màu trong vòng 7 ngày kể từ ngày nhận hàng.',
       'Không áp dụng đổi trả với sản phẩm đã qua sử dụng, dơ bẩn, mất hộp hoặc hư hỏng do người dùng.',
-      'Khách hàng cần giữ hóa đơn hoặc thông tin đơn hàng để KienShoes hỗ trợ kiểm tra.',
+      'Khách hàng cần giữ hóa đơn hoặc thông tin đơn hàng để HiKuShoes hỗ trợ kiểm tra.',
     ],
   },
   shipping: {
-    label: 'KIENSHOES POLICY',
+    label: 'HiKuSHOES POLICY',
     title: 'Chính sách giao hàng',
-    desc: 'KienShoes hỗ trợ giao hàng toàn quốc, cho phép khách hàng kiểm tra sản phẩm trước khi nhận hàng.',
+    desc: 'HiKuShoes hỗ trợ giao hàng toàn quốc, cho phép khách hàng kiểm tra sản phẩm trước khi nhận hàng.',
     contents: [
       'Giao hàng toàn quốc thông qua các đơn vị vận chuyển phù hợp với từng khu vực.',
       'Thời gian giao hàng dự kiến từ 2 đến 5 ngày tùy địa chỉ nhận hàng.',
       'Khách hàng được kiểm tra ngoại quan sản phẩm trước khi thanh toán hoặc nhận hàng.',
-      'Nếu đơn hàng bị chậm, thất lạc hoặc giao sai sản phẩm, KienShoes sẽ hỗ trợ xử lý sớm nhất.',
+      'Nếu đơn hàng bị chậm, thất lạc hoặc giao sai sản phẩm, HiKuShoes sẽ hỗ trợ xử lý sớm nhất.',
     ],
   },
 }

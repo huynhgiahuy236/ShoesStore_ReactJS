@@ -1,7 +1,7 @@
 // ===== THIẾT LẬP MODULE =====
 
 // ------ Khai báo const user key ------
-const USER_KEY = 'kienshoes_users'
+const USER_KEY = 'HiKushoes_users'
 
 // ===== EXPORTS =====
 

@@ -12,7 +12,7 @@ export const getAllCustomers = () => {
   const customers = []
 
   Object.keys(localStorage).forEach((key) => {
-    if (!key.startsWith('kienshoes_users')) return
+    if (!key.startsWith('HiKushoes_users')) return
 
     try {
 

@@ -1,7 +1,7 @@
 // ===== THIẾT LẬP MODULE =====
 
 // ------ Khai báo const order code counter key ------
-const ORDER_CODE_COUNTER_KEY = 'kienshoes_order_code_counter'
+const ORDER_CODE_COUNTER_KEY = 'HiKushoes_order_code_counter'
 
 // ------ Khai báo const order code prefix ------
 const ORDER_CODE_PREFIX = 'KS251210'

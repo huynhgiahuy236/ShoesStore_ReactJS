@@ -66,7 +66,7 @@ const Promotions = () => {
       <div className="mb-8 overflow-hidden w-full max-h-100 rounded-3xl bg-orange-100">
         <img
           src="/images/banner1.png"
-          alt="Ưu đãi KienShoes"
+          alt="Ưu đãi HiKuShoes"
           className="w-full max-h-100"
         />
       </div>

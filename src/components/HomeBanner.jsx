@@ -10,7 +10,7 @@ const HomeBanner = () => {
       <div className="overflow-hidden rounded-xl bg-blue-100 lg:col-span-2">
         <img
           src="/images/banner-main.png"
-          alt="Tải app KienShoes"
+          alt="Tải app HiKuShoes"
           className="h-full w-full object-cover"
         />
       </div>
@@ -27,7 +27,7 @@ const HomeBanner = () => {
         <div className="overflow-hidden rounded-xl bg-blue-100">
           <img
             src="/images/banner-small.png"
-            alt="KienShoes"
+            alt="HiKuShoes"
             className="h-full w-full object-cover"
           />
         </div>

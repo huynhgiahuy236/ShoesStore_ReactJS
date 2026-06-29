@@ -17,7 +17,7 @@ const banners = [
     id: 2,
     to: '/policy',
     image: './images/banner2.png',
-    alt: 'Chính sách KienShoes',
+    alt: 'Chính sách HiKuShoes',
   },
 ]
 

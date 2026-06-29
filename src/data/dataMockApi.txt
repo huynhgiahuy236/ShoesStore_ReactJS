@@ -730,7 +730,7 @@
     "deleted": false,
     "feature": true,
     "hasGift": true,
-    "giftName": "Tặng tất KienShoes",
+    "giftName": "Tặng tất HiKuShoes",
     "image": "/img-shoes/high-top/nike/Nike Dunk High-unisex/trang-do/W_NIKE_DUNK_HIGH_NBY_OD-01.png",
     "imgLink": "/img-shoes/high-top/nike/Nike Dunk High-unisex/trang-do/W_NIKE_DUNK_HIGH_NBY_OD-01.png",
     "shortDescription": "Thiết kế hiện đại, dễ phối đồ, phù hợp sử dụng hằng ngày.",
@@ -1045,7 +1045,7 @@
     "deleted": false,
     "feature": false,
     "hasGift": true,
-    "giftName": "Tặng tất KienShoes",
+    "giftName": "Tặng tất HiKuShoes",
     "image": "/img-shoes/low-top/adidas/Adidas Campus 2-unisex/do/giay-adidas-campus-2-nam-do-01.jpg",
     "imgLink": "/img-shoes/low-top/adidas/Adidas Campus 2-unisex/do/giay-adidas-campus-2-nam-do-01.jpg",
     "shortDescription": "Thiết kế hiện đại, dễ phối đồ, phù hợp sử dụng hằng ngày.",
@@ -1598,7 +1598,7 @@
     "deleted": false,
     "feature": true,
     "hasGift": true,
-    "giftName": "Tặng tất KienShoes",
+    "giftName": "Tặng tất HiKuShoes",
     "image": "/img-shoes/low-top/adidas/Adidas Pureboost 5-boy/trang-xanh-do/giay-adidas-pureboost-5-nam-trang-xanh-do-01.jpg",
     "imgLink": "/img-shoes/low-top/adidas/Adidas Pureboost 5-boy/trang-xanh-do/giay-adidas-pureboost-5-nam-trang-xanh-do-01.jpg",
     "shortDescription": "Thiết kế hiện đại, dễ phối đồ, phù hợp sử dụng hằng ngày.",
@@ -2159,7 +2159,7 @@
     "deleted": false,
     "feature": false,
     "hasGift": true,
-    "giftName": "Tặng tất KienShoes",
+    "giftName": "Tặng tất HiKuShoes",
     "image": "/img-shoes/low-top/adidas/Adidas Ultraboost 5-unisex/trang-xam-do/giay-adidas-ultraboost-5-nam-trang-xam-do-01.jpg",
     "imgLink": "/img-shoes/low-top/adidas/Adidas Ultraboost 5-unisex/trang-xam-do/giay-adidas-ultraboost-5-nam-trang-xam-do-01.jpg",
     "shortDescription": "Thiết kế hiện đại, dễ phối đồ, phù hợp sử dụng hằng ngày.",
@@ -2705,7 +2705,7 @@
     "deleted": false,
     "feature": false,
     "hasGift": true,
-    "giftName": "Tặng tất KienShoes",
+    "giftName": "Tặng tất HiKuShoes",
     "image": "/img-shoes/low-top/lacoste/Lacoste Carnaby Set-girl/trang/giay-lacoste-carnaby-set-nu-trang-01.jpg",
     "imgLink": "/img-shoes/low-top/lacoste/Lacoste Carnaby Set-girl/trang/giay-lacoste-carnaby-set-nu-trang-01.jpg",
     "shortDescription": "Thiết kế hiện đại, dễ phối đồ, phù hợp sử dụng hằng ngày.",
@@ -3160,9 +3160,9 @@
       {
         "id": 1782120189565,
         "productId": "24",
-        "username": "Kien",
-        "fullName": "Kien",
-        "userName": "Kien",
+        "username": "HiKu",
+        "fullName": "HiKu",
+        "userName": "HiKu",
         "rating": 4,
         "content": "Sản phẩm tốt, êm chân, giao hơi lâu",
         "comment": "Sản phẩm tốt, êm chân, giao hơi lâu",
@@ -3186,7 +3186,7 @@
   {
     "name": "Lacoste T-Clip Leather",
     "alias": "lacoste-t-clip-leather",
-    "brand": "kien",
+    "brand": "HiKu",
     "type": "high-top",
     "typeName": "Giày cổ cao",
     "gender": [
@@ -3218,8 +3218,8 @@
     "description": "Sản phẩm được thiết kế trẻ trung, dễ phối đồ, phù hợp để đi học, đi làm, đi chơi và sử dụng hằng ngày. Form dáng hiện đại, chất liệu bền bỉ, mang lại cảm giác thoải mái khi di chuyển.",
     "categories": [
       {
-        "id": "KIEN",
-        "category": "KIEN"
+        "id": "HiKu",
+        "category": "HiKu"
       }
     ],
     "relatedProducts": [],

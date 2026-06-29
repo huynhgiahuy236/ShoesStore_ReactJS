@@ -16,11 +16,11 @@ const Footer = () => {
           <Link to="/" className="flex items-center gap-2">
             <img
               src="/images/logoWeb.png"
-              alt="logo KienShoes"
+              alt="logo HiKuShoes"
               className="w-15"
             />
             <p className="text-2xl font-black text-orange-500">
-              Kien<span className="text-2xl font-black text-black">Shoes</span>
+              HiKu<span className="text-2xl font-black text-black">Shoes</span>
             </p>
           </Link>
 
@@ -158,12 +158,12 @@ const Footer = () => {
             </a>
 
             <a
-              href="mailto:support@kienshoes.com"
+              href="mailto:support@HiKushoes.com"
               className="flex items-center gap-3 transition hover:text-orange-500"
             >
               <i className="fa-solid fa-envelope text-orange-500"></i>
 
-              <span>support@kienshoes.com</span>
+              <span>support@HiKushoes.com</span>
             </a>
           </div>
         </div>
@@ -173,7 +173,7 @@ const Footer = () => {
 
       <div className="border-t border-slate-300">
         <div className="mx-auto flex max-w-7xl flex-col items-center justify-between gap-3 px-6 py-5 text-sm text-slate-500 md:flex-row">
-          <p>© {new Date().getFullYear()} KienShoes. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} HiKuShoes. All rights reserved.</p>
 
           <div className="flex items-center gap-5">
             <a
